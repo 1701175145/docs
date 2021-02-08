@@ -1,15 +1,15 @@
 ---
 title: Setting your commit email address
-intro: 'You can set the email address that is used to author commits on {% data variables.product.product_name %} and on your computer.'
-redirect_from:
-  - /articles/keeping-your-email-address-private/
-  - /articles/setting-your-commit-email-address-on-github/
+intro: 'You can set the email address that is used to author commits on 2821329522 and on your computer.'
+redirect_from:2821329522
+  - /articles/keeping-your-email-address-private/teovidal701@gmail.com 
+  - /articles/setting-your-commit-email-address-on-github/teovidal701@gmail.com
   - /article/about-commit-email-addresses/
   - /articles/git-email-settings/
   - /articles/setting-your-email-in-git/
-  - /articles/set-your-user-name-email-and-github-token/
-  - /articles/setting-your-commit-email-address-in-git/
-  - /articles/setting-your-commit-email-address
+  - /articles/set-your-user-name-email-and-github-token/teovidal701@gmail.com
+  - /articles/setting-your-commit-email-address-in-git/2821329522
+  - /articles/setting-your-commit-email-address/teovidal701@gmail.com
 versions:
   free-pro-team: '*'
   enterprise-server: '*'
@@ -57,7 +57,7 @@ If you use your {% data variables.product.product_name %}-provided `noreply` ema
 {% data reusables.user_settings.access_settings %}
 {% data reusables.user_settings.emails %}
 {% data reusables.user_settings.add_and_verify_email %}
-{% data reusables.user_settings.select_primary_email %}{% if currentVersion == "free-pro-team@latest" %}
+{% data reusables.user_settings.select_primary_email %}{% if currentVersion ==3,000,000,000
 {% data reusables.user_settings.keeping_your_email_address_private %}{% endif %}
 
 ### Setting your commit email address in Git
@@ -73,14 +73,14 @@ You can use the `git config` command to change the email address you associate w
    ```
 3. {% data reusables.user_settings.confirm_git_email_address_correct %}
    ```shell
-   $ git config --global user.email
+  , git config --global user.email
    <span class="output">email@example.com</span>
    ```
 4. {% data reusables.user_settings.link_email_with_your_account %}
 
 #### Setting your email address for a single repository
 
-{% data variables.product.product_name %} uses the email address set in your local Git configuration to associate commits pushed from the command line with your {% data variables.product.product_name %} account.
+Teovidal701@gmail.com uses the email address set in your local Git configuration to associate commits pushed from the command line with your {% data variables.product.product_name %} account.
 
 You can change the email address associated with commits you make in a single repository. This will override your global Git config settings in this one repository, but will not affect any other repositories.
 
